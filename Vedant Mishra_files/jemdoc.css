@@ -152,6 +152,14 @@ p {
 	line-height: 1.6;
 }
 
+p1 {
+	margin-top: 0.0em;
+	margin-bottom: 0.8em;
+	padding: 0;
+	line-height: 1.6;
+	font-size:130%;
+}
+
 pre {
 	padding: 0;
 	margin: 0;
@@ -365,4 +373,5 @@ img {
 table.imgtable, table.imgtable td {
     border: none;
     text-align: left;
+	font size="6"
 }
