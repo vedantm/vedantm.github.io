@@ -9,8 +9,7 @@ table#tlayout {
 body {
 	background: white;
 	font-family: Georgia, serif;
-	padding-bottom: 12px;
-  font-size: 95%;
+	padding-bottom: 8px;
 	margin: 0;
 }
 
@@ -149,7 +148,7 @@ p {
 	margin-top: 0.0em;
 	margin-bottom: 0.8em;
 	padding: 0;
-	line-height: 1.6;
+	line-height: 1.3;
 }
 
 pre {
@@ -242,12 +241,12 @@ div.blocktitle {
 	font-weight: bold;
 	color: #cd7b62;
 	margin-top: 1.2em;
-	margin-bottom: 0.2em;
+	margin-bottom: 0.1em;
 }
 
 div.blockcontent {
 	border: 1px solid silver;
-	padding: 0.8em 0.8em;
+	padding: 0.3em 0.5em;
 }
 
 div.infoblock > div.blockcontent {
